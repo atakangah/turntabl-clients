@@ -7,7 +7,7 @@ plugins {
 group 'io.turntabl'
 version '1.0-SNAPSHOT'
 
-sourceCompatibility = 16
+sourceCompatibility = JavaVersion.VERSION_16
 
 repositories {
     mavenCentral()
